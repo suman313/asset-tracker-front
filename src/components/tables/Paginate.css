@@ -1,0 +1,17 @@
+.pagination {
+    display: flex;
+    /* gap: 1rem; */
+}
+.page-item {
+    border: 1px solid #efe8e8;
+    color: #625f5f
+}
+
+.page-link {
+    padding: 1rem;
+}
+
+.active {
+    background: #5d5bd6;
+    color: white;
+}
